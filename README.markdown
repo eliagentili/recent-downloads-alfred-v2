@@ -1,5 +1,5 @@
 # Recent Downloads Workflow
-This is an [Alfred v2](http://www.alfredapp.com) workflow to access
+This is an [Alfred v3](http://www.alfredapp.com) workflow to access
 the most recent downloads in the Downloads folder.
 
 The items are sorted in decreasing order based on the time they
@@ -19,7 +19,7 @@ There are two operations on the selected item:
 4. move to trash (holding "cmd" key)
 
 The installation behavior can be controlled by `config.yaml` at
-`~/Library/Application Support/Alfred 2/Workflow Data/recentdownloads.ddjfreedom/config.yaml`:
+`~/Library/Application Support/Alfred 3/Workflow Data/recentdownloads.ddjfreedom/config.yaml`:
 
 | Name | Possible Values |
 |:-----|:----------------|
